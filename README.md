@@ -11,3 +11,4 @@ Score is saved in database (SQLite3))
 
 Mountain Shooter
 
+Trabalho Acadêmico.
